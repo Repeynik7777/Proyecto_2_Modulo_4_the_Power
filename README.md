@@ -101,22 +101,22 @@ Estructura del Proyecto:
 ----------------------------------------------------------------------------------------------------------
 
 El archivo Proyecto_sql.sql del Proyecto 2 del Módulo 4 contiene una serie de consultas SQL diseñadas para interactuar con la base de datos de una tienda de películas ficticia. Las tareas realizadas en este archivo abarcan diversos aspectos del manejo y análisis de datos, incluyendo:​
-    Consultas sobre Tablas Individuales:
+    1. Consultas sobre Tablas Individuales:
         Extracción de información específica de tablas como actor, film, customer, entre otras.​
         Filtrado de datos utilizando cláusulas WHERE para obtener registros que cumplen con ciertos criterios.​
-    Consultas con Joins entre Múltiples Tablas:
+    2. Consultas con Joins entre Múltiples Tablas:
         Combinación de datos de dos o más tablas relacionadas mediante claves foráneas, utilizando diferentes tipos de JOIN (INNER JOIN, LEFT JOIN, etc.).​
         Obtención de información consolidada, como listar películas junto con sus actores o categorías.​
-    Uso de Subconsultas:
+    3. Uso de Subconsultas:
         Implementación de subconsultas en cláusulas SELECT, FROM o WHERE para realizar consultas más complejas y anidadas.​
         Ejemplos incluyen la identificación de clientes que han alquilado más películas que el promedio.​
-    Creación y Utilización de Vistas:
+    4. Creación y Utilización de Vistas:
         Definición de vistas (CREATE VIEW) para almacenar consultas frecuentes y simplificar el acceso a datos complejos.​
         Uso de estas vistas para realizar consultas posteriores de manera más eficiente.​
-    Manejo de Datos Temporales:
+    5. Manejo de Datos Temporales:
         Consultas que involucran la manipulación de fechas y horas, como calcular la duración de los alquileres o determinar retrasos en las devoluciones.​
         Uso de funciones de fecha para extraer información temporal relevante.​
-    Uso de Tablas Temporales:
+    6. Uso de Tablas Temporales:
         Creación de tablas temporales para almacenar resultados intermedios o conjuntos de datos específicos durante una sesión.​
         Inserción y manipulación de datos dentro de estas tablas para análisis temporales.​
 Estas tareas reflejan una aplicación práctica y avanzada de SQL, enfocada en la gestión eficiente de bases de datos relacionales y en la extracción de información significativa para el análisis de la operativa de la tienda de películas.
